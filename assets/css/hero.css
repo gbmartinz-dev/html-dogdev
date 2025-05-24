@@ -29,7 +29,7 @@
   margin: 3rem 0;
 }
 
-@media (width > 900px) {
+@media (width > 800px) {
   .hero {
     background-image: url('../images/hero.png');
     background-size: auto;
