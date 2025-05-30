@@ -27,7 +27,7 @@ Este projeto é uma aplicação web desenvolvida com foco em apresentar nossos p
 
 ## 📸 Demonstração
 
-> *(![Image](https://github.com/user-attachments/assets/a5feede8-c5af-4dda-a68c-331f8d823a2f))*
+> *![Image](https://github.com/user-attachments/assets/a5feede8-c5af-4dda-a68c-331f8d823a2f)*
 
 ---
 
